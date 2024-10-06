@@ -1,3 +1,4 @@
+![Screenshot_20241004-081935 (2)](https://github.com/user-attachments/assets/a2cc1785-d128-4eab-a634-0236d6a3b986)
 # LITA_Class_Documentation
 
 ### Project Title: Bike Buyers Analysis
