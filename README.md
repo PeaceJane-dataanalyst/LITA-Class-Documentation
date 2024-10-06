@@ -2,6 +2,15 @@
 # LITA_Class_Documentation
 
 ### Project Title: Bike Buyers Analysis
+## Outline:
+- [Project Overview](#project-overview)
+- Data Sources
+- Tool Used
+- Data Cleaning and Preparations
+- Exploratory Data Analysis
+- Data Visualization
+- [Data Analysis](#data-analysis)
+
 
 ### Project Overview
 ---
@@ -58,7 +67,7 @@ EDA involved the exploring of the data to answer some question about the data su
 ![Screenshot_20241004-081935 (2)](https://github.com/user-attachments/assets/d2104c34-8296-4722-9a65-a068204f61e4)
 
 
-### Data Analysing
+### Data Analysis
 ---
 This is where we include some basic lines of code and queries or even some of the DAX expression used during analysis:
 ```SQL
