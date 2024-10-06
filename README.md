@@ -52,7 +52,7 @@ EDA involved the exploring of the data to answer some question about the data su
 - What is the average income of bike buyers?
 - How do occupation and income jointly impact bike purchasing decision?
 - Which occupations have the highest percentage of bike owners?
-- 
+  
 ### Data Visualization
 ---
 ![Screenshot_20241004-081935 (2)](https://github.com/user-attachments/assets/d2104c34-8296-4722-9a65-a068204f61e4)
