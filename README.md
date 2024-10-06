@@ -56,8 +56,8 @@ EDA involved the exploring of the data to answer some question about the data su
 ---
 This is where we include some basic lines of code and queries or even some of the DAX expression used during analysis:
 ```SQL
-SELECT * FROM BIKE_BUYERS_TABLE
-INSERT INTO BIKE_BUYERS_TABLE(ID,Marital_Status,Gender,Age,Age Bracket,Occupation,Income,Education,Country,Home_Owner,Cars,Distances,Children,Purchase_Bike)
+```SELECT * FROM BIKE_BUYERS_TABLE
+```INSERT INTO BIKE_BUYERS_TABLE(ID,Marital_Status,Gender,Age,Age Bracket,Occupation,Income,Education,Country,Home_Owner,Cars,Distances,Children,Purchase_Bike)
 
 ### Data visualization
 ---
