@@ -52,6 +52,11 @@ EDA involved the exploring of the data to answer some question about the data su
 - What is the average income of bike buyers?
 - How do occupation and income jointly impact bike purchasing decision?
 - Which occupations have the highest percentage of bike owners?
+- 
+### Data Visualization
+---
+![Screenshot_20241004-081935 (2)](https://github.com/user-attachments/assets/d2104c34-8296-4722-9a65-a068204f61e4)
+
 
 ### Data Analysing
 ---
@@ -60,8 +65,6 @@ This is where we include some basic lines of code and queries or even some of th
 SELECT * FROM BIKE_BUYERS_TABLE
 INSERT INTO BIKE_BUYERS_TABLE(ID,Marital_Status,Gender,Age,Age Bracket,Occupation,Income,Education,Country,Home_Owner,Cars,Distances,Children,Purchase_Bike)
 
-### Data Visualization
-![Screenshot_20241004-081935 (2)](https://github.com/user-attachments/assets/d2104c34-8296-4722-9a65-a068204f61e4)
 
 
 
